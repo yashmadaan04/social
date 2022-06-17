@@ -1,0 +1,29 @@
+.box1{
+
+   width: 90px;
+   height: 70px;
+   flex-direction: column;
+}
+
+.box2{
+
+    margin-left: 160px;
+    margin-top: -60px;
+}
+
+.main {
+
+    height: 150px;
+    width: 100%;
+ 
+    margin-left: 590px;
+    position: fixed;
+
+}
+.post{
+      margin-top: 150px;
+      width:500px;
+      height: 220px;
+      
+      margin-left: -70px;
+}
